@@ -1,0 +1,25 @@
+<resources>
+    <color name="purple_500">#A855F7</color>
+    <color name="purple_700">#7C3AED</color>
+    <color name="blue">#3B82F6</color>
+    <color name="green">#10B981</color>
+    <color name="coral">#FF6B6B</color>
+    <color name="orange">#F59E0B</color>
+    <color name="yellow_light">#FEF3C7</color>
+    <color name="gray_light">#E5E7EB</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <!-- Backgrounds -->
+    <color name="background_light">#F5F5F5</color> <!-- Light gray background -->
+    <color name="background_dark">#121212</color>  <!-- Dark mode background -->
+
+    <!-- Primary / Accent colors -->
+
+    <!-- Borders / Shadows -->
+    <color name="border_gray">#BDBDBD</color>
+    <color name="green_light">#4CAF50</color> <!-- Material Design green 500 -->
+    <color name="coral_light">#FFAB91</color>
+
+</resources>

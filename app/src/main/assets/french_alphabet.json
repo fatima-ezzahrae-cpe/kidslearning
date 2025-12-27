@@ -1,0 +1,186 @@
+{
+  "letters": [
+    {
+      "character": "A",
+      "example": "Abeille",
+      "exampleTranslation": "Bee",
+      "fact": "La lettre 'A' est très importante dans beaucoup de mots français. C'est la première lettre de l'alphabet!",
+      "soundFile": "sound_a.mp3"
+    },
+    {
+      "character": "B",
+      "example": "Ballon",
+      "exampleTranslation": "Ball",
+      "fact": "B comme Ballon, l'un des jouets préférés des enfants. La lettre B fait le son 'bé'.",
+      "soundFile": "sound_b.mp3"
+    },
+    {
+      "character": "C",
+      "example": "Chat",
+      "exampleTranslation": "Cat",
+      "fact": "C comme Chat, un animal domestique très mignon. Le C peut se prononcer 'k' ou 's'.",
+      "soundFile": "sound_c.mp3"
+    },
+    {
+      "character": "D",
+      "example": "Dauphin",
+      "exampleTranslation": "Dolphin",
+      "fact": "D comme Dauphin, un animal intelligent de la mer. Les dauphins adorent jouer!",
+      "soundFile": "sound_d.mp3"
+    },
+    {
+      "character": "E",
+      "example": "Éléphant",
+      "exampleTranslation": "Elephant",
+      "fact": "E comme Éléphant, le plus grand animal terrestre. Les éléphants ont une excellente mémoire!",
+      "soundFile": "sound_e.mp3"
+    },
+    {
+      "character": "F",
+      "example": "Fleur",
+      "exampleTranslation": "Flower",
+      "fact": "F comme Fleur, belle et parfumée. Les fleurs attirent les abeilles et les papillons.",
+      "soundFile": "sound_f.mp3"
+    },
+    {
+      "character": "G",
+      "example": "Girafe",
+      "exampleTranslation": "Giraffe",
+      "fact": "G comme Girafe, l'animal avec le plus long cou. Une girafe peut mesurer 6 mètres!",
+      "soundFile": "sound_g.mp3"
+    },
+    {
+      "character": "H",
+      "example": "Hippopotame",
+      "exampleTranslation": "Hippopotamus",
+      "fact": "H comme Hippopotame, un gros animal d'Afrique. Les hippos adorent l'eau!",
+      "soundFile": "sound_h.mp3"
+    },
+    {
+      "character": "I",
+      "example": "Igloo",
+      "exampleTranslation": "Igloo",
+      "fact": "I comme Igloo, une maison de glace. Les igloos gardent la chaleur à l'intérieur!",
+      "soundFile": "sound_i.mp3"
+    },
+    {
+      "character": "J",
+      "example": "Jardin",
+      "exampleTranslation": "Garden",
+      "fact": "J comme Jardin, où poussent les fleurs et les légumes. Un endroit magnifique pour jouer!",
+      "soundFile": "sound_j.mp3"
+    },
+    {
+      "character": "K",
+      "example": "Kangourou",
+      "exampleTranslation": "Kangaroo",
+      "fact": "K comme Kangourou, qui saute très haut. Les kangourous vivent en Australie!",
+      "soundFile": "sound_k.mp3"
+    },
+    {
+      "character": "L",
+      "example": "Lion",
+      "exampleTranslation": "Lion",
+      "fact": "L comme Lion, le roi de la jungle. Les lions rugissent très fort!",
+      "soundFile": "sound_l.mp3"
+    },
+    {
+      "character": "M",
+      "example": "Mouton",
+      "exampleTranslation": "Sheep",
+      "fact": "M comme Mouton, un animal de la ferme. Les moutons nous donnent la laine!",
+      "soundFile": "sound_m.mp3"
+    },
+    {
+      "character": "N",
+      "example": "Nuage",
+      "exampleTranslation": "Cloud",
+      "fact": "N comme Nuage, blanc dans le ciel. Les nuages sont faits de minuscules gouttes d'eau!",
+      "soundFile": "sound_n.mp3"
+    },
+    {
+      "character": "O",
+      "example": "Oiseau",
+      "exampleTranslation": "Bird",
+      "fact": "O comme Oiseau, qui vole dans le ciel. Il existe plus de 10 000 espèces d'oiseaux!",
+      "soundFile": "sound_o.mp3"
+    },
+    {
+      "character": "P",
+      "example": "Papillon",
+      "exampleTranslation": "Butterfly",
+      "fact": "P comme Papillon, avec de belles couleurs. Les papillons commencent leur vie comme chenilles!",
+      "soundFile": "sound_p.mp3"
+    },
+    {
+      "character": "Q",
+      "example": "Queue",
+      "exampleTranslation": "Tail",
+      "fact": "Q comme Queue, que les animaux ont. Certains animaux utilisent leur queue pour s'équilibrer!",
+      "soundFile": "sound_q.mp3"
+    },
+    {
+      "character": "R",
+      "example": "Robot",
+      "exampleTranslation": "Robot",
+      "fact": "R comme Robot, une machine intelligente. Les robots peuvent nous aider dans beaucoup de tâches!",
+      "soundFile": "sound_r.mp3"
+    },
+    {
+      "character": "S",
+      "example": "Soleil",
+      "exampleTranslation": "Sun",
+      "fact": "S comme Soleil, qui brille dans le ciel. Le soleil nous donne lumière et chaleur!",
+      "soundFile": "sound_s.mp3"
+    },
+    {
+      "character": "T",
+      "example": "Tortue",
+      "exampleTranslation": "Turtle",
+      "fact": "T comme Tortue, lente mais sage. Certaines tortues peuvent vivre plus de 100 ans!",
+      "soundFile": "sound_t.mp3"
+    },
+    {
+      "character": "U",
+      "example": "Usine",
+      "exampleTranslation": "Factory",
+      "fact": "U comme Usine, où on fabrique des choses. Les usines produisent beaucoup d'objets utiles!",
+      "soundFile": "sound_u.mp3"
+    },
+    {
+      "character": "V",
+      "example": "Voiture",
+      "exampleTranslation": "Car",
+      "fact": "V comme Voiture, pour voyager. Les voitures nous permettent d'aller partout!",
+      "soundFile": "sound_v.mp3"
+    },
+    {
+      "character": "W",
+      "example": "Wagon",
+      "exampleTranslation": "Wagon",
+      "fact": "W comme Wagon, partie du train. Les trains transportent des passagers et des marchandises!",
+      "soundFile": "sound_w.mp3"
+    },
+    {
+      "character": "X",
+      "example": "Xylophone",
+      "exampleTranslation": "Xylophone",
+      "fact": "X comme Xylophone, un instrument de musique. On joue du xylophone avec des baguettes!",
+      "soundFile": "sound_x.mp3"
+    },
+    {
+      "character": "Y",
+      "example": "Yoyo",
+      "exampleTranslation": "Yoyo",
+      "fact": "Y comme Yoyo, un jouet amusant. Le yoyo monte et descend avec une ficelle!",
+      "soundFile": "sound_y.mp3"
+    },
+    {
+      "character": "Z",
+      "example": "Zèbre",
+      "exampleTranslation": "Zebra",
+      "fact": "Z comme Zèbre, avec des rayures noires et blanches. C'est la dernière lettre de l'alphabet!",
+      "soundFile": "sound_z.mp3"
+    }
+  ]
+}

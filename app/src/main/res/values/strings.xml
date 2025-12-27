@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EduKids</string>
+    <string name="app_icon">App Icon</string>
+    <string name="settings">Settings</string>
+    <string name="pencil">Pencil</string>
+    <string name="book">Book</string>
+    <string name="language_icon">Language</string>
+    <string name="back">Back</string>
+    <string name="grid">Grid View</string>
+    <string name="animal">Animal</string>
+    <string name="close">Close</string>
+    <string name="learn_alphabet">Apprendre l\'Alphabet</string>
+    <string name="choose_language">Choisis ta langue pour commencer!</string>
+    <string name="french">Français</string>
+    <string name="arabic">العربية</string>
+    <string name="alphabet_french">Alphabet Français</string>
+    <string name="alphabet_arabic">الأبجدية العربية</string>
+    <string name="letter_of_day">Lettre du jour</string>
+    <string name="listen">Écouter</string>
+    <string name="practice_writing">Pratiquer l\'écriture</string>
+    <string name="did_you_know">Le savais-tu?</string>
+    <string name="previous">Précédent</string>
+    <string name="next">Suivant</string>
+    <string name="practice">Pratique d\'écriture</string>
+    <string name="trace_letter">Trace la lettre</string>
+    <string name="erase">Effacer</string>
+    <string name="validate">Valider</string>
+    <string name="advice">Conseils</string>
+    <string name="all_letters">Toutes les lettres</string>
+    <string name="letter_image">Image du lettre</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Gradient colors -->
+    <gradient
+        android:startColor="#A5D6A7"/>           <!-- vertical gradient -->
+
+    <!-- Rounded corners -->
+    <corners android:radius="24dp"/>
+
+    <!-- Optional shadow/stroke -->
+    <stroke
+        android:width="2dp"
+        android:color="#388E3C"/>       <!-- dark green border -->
+</shape>

@@ -1,0 +1,200 @@
+{
+  "letters": [
+    {
+      "character": "أ",
+      "example": "أسد",
+      "exampleTranslation": "Lion (Assad)",
+      "fact": "حرف الألف هو أول حرف في الأبجدية العربية وهو حرف مميز جداً",
+      "soundFile": "sound_alif.mp3"
+    },
+    {
+      "character": "ب",
+      "example": "بطة",
+      "exampleTranslation": "Canard (Batta)",
+      "fact": "حرف الباء له نقطة واحدة تحته ويشبه القارب الصغير",
+      "soundFile": "sound_ba.mp3"
+    },
+    {
+      "character": "ت",
+      "example": "تفاحة",
+      "exampleTranslation": "Pomme (Tuffaha)",
+      "fact": "حرف التاء له نقطتان فوقه وهو مشابه للباء لكن النقاط فوق",
+      "soundFile": "sound_ta.mp3"
+    },
+    {
+      "character": "ث",
+      "example": "ثعلب",
+      "exampleTranslation": "Renard (Thalab)",
+      "fact": "حرف الثاء له ثلاث نقاط فوقه ويصدر صوتاً مميزاً",
+      "soundFile": "sound_tha.mp3"
+    },
+    {
+      "character": "ج",
+      "example": "جمل",
+      "exampleTranslation": "Chameau (Jamal)",
+      "fact": "حرف الجيم له نقطة واحدة في الوسط وشكله جميل",
+      "soundFile": "sound_jim.mp3"
+    },
+    {
+      "character": "ح",
+      "example": "حوت",
+      "exampleTranslation": "Baleine (Hout)",
+      "fact": "حرف الحاء ليس له نقاط وهو حرف حلقي يخرج من الحلق",
+      "soundFile": "sound_ha.mp3"
+    },
+    {
+      "character": "خ",
+      "example": "خروف",
+      "exampleTranslation": "Mouton (Kharouf)",
+      "fact": "حرف الخاء له نقطة واحدة فوقه ويشبه الحاء",
+      "soundFile": "sound_kha.mp3"
+    },
+    {
+      "character": "د",
+      "example": "دب",
+      "exampleTranslation": "Ours (Dubb)",
+      "fact": "حرف الدال بسيط وجميل وليس له نقاط",
+      "soundFile": "sound_dal.mp3"
+    },
+    {
+      "character": "ذ",
+      "example": "ذئب",
+      "exampleTranslation": "Loup (Dhib)",
+      "fact": "حرف الذال له نقطة واحدة فوقه ويشبه الدال",
+      "soundFile": "sound_dhal.mp3"
+    },
+    {
+      "character": "ر",
+      "example": "رمان",
+      "exampleTranslation": "Grenade (Rumman)",
+      "fact": "حرف الراء منحني وجميل وليس له نقاط",
+      "soundFile": "sound_ra.mp3"
+    },
+    {
+      "character": "ز",
+      "example": "زرافة",
+      "exampleTranslation": "Girafe (Zarafa)",
+      "fact": "حرف الزاي له نقطة واحدة فوقه ويشبه الراء",
+      "soundFile": "sound_zay.mp3"
+    },
+    {
+      "character": "س",
+      "example": "سمكة",
+      "exampleTranslation": "Poisson (Samaka)",
+      "fact": "حرف السين له ثلاثة أسنان صغيرة في الأعلى",
+      "soundFile": "sound_sin.mp3"
+    },
+    {
+      "character": "ش",
+      "example": "شمس",
+      "exampleTranslation": "Soleil (Shams)",
+      "fact": "حرف الشين له ثلاث نقاط فوقه ويشبه السين",
+      "soundFile": "sound_shin.mp3"
+    },
+    {
+      "character": "ص",
+      "example": "صقر",
+      "exampleTranslation": "Faucon (Saqr)",
+      "fact": "حرف الصاد واسع ومميز وهو من الحروف المفخمة",
+      "soundFile": "sound_sad.mp3"
+    },
+    {
+      "character": "ض",
+      "example": "ضفدع",
+      "exampleTranslation": "Grenouille (Difda)",
+      "fact": "حرف الضاد مميز في اللغة العربية وله نقطة واحدة فوقه",
+      "soundFile": "sound_dad.mp3"
+    },
+    {
+      "character": "ط",
+      "example": "طائر",
+      "exampleTranslation": "Oiseau (Tair)",
+      "fact": "حرف الطاء طويل ومفخم وليس له نقاط",
+      "soundFile": "sound_ta2.mp3"
+    },
+    {
+      "character": "ظ",
+      "example": "ظبي",
+      "exampleTranslation": "Gazelle (Dhabi)",
+      "fact": "حرف الظاء له نقطة واحدة فوقه ويشبه الطاء",
+      "soundFile": "sound_za.mp3"
+    },
+    {
+      "character": "ع",
+      "example": "عصفور",
+      "exampleTranslation": "Moineau (Asfour)",
+      "fact": "حرف العين مميز جداً ويخرج من وسط الحلق",
+      "soundFile": "sound_ain.mp3"
+    },
+    {
+      "character": "غ",
+      "example": "غزال",
+      "exampleTranslation": "Cerf (Ghazal)",
+      "fact": "حرف الغين له نقطة واحدة فوقه ويشبه العين",
+      "soundFile": "sound_ghain.mp3"
+    },
+    {
+      "character": "ف",
+      "example": "فيل",
+      "exampleTranslation": "Éléphant (Fil)",
+      "fact": "حرف الفاء له نقطة واحدة فوقه ورأسه مستدير",
+      "soundFile": "sound_fa.mp3"
+    },
+    {
+      "character": "ق",
+      "example": "قطة",
+      "exampleTranslation": "Chat (Qitta)",
+      "fact": "حرف القاف له نقطتان فوقه وهو حرف مفخم",
+      "soundFile": "sound_qaf.mp3"
+    },
+    {
+      "character": "ك",
+      "example": "كلب",
+      "exampleTranslation": "Chien (Kalb)",
+      "fact": "حرف الكاف جميل وشكله مميز بحمزة صغيرة",
+      "soundFile": "sound_kaf.mp3"
+    },
+    {
+      "character": "ل",
+      "example": "ليمون",
+      "exampleTranslation": "Citron (Laymoun)",
+      "fact": "حرف اللام طويل ورفيع ويرتفع إلى الأعلى",
+      "soundFile": "sound_lam.mp3"
+    },
+    {
+      "character": "م",
+      "example": "ماعز",
+      "exampleTranslation": "Chèvre (Maiz)",
+      "fact": "حرف الميم شكله دائري ومغلق تماماً",
+      "soundFile": "sound_mim.mp3"
+    },
+    {
+      "character": "ن",
+      "example": "نحلة",
+      "exampleTranslation": "Abeille (Nahla)",
+      "fact": "حرف النون له نقطة واحدة فوقه وشكله مثل الطبق",
+      "soundFile": "sound_nun.mp3"
+    },
+    {
+      "character": "ه",
+      "example": "هدهد",
+      "exampleTranslation": "Huppe (Hudhud)",
+      "fact": "حرف الهاء بسيط وله عدة أشكال حسب موقعه في الكلمة",
+      "soundFile": "sound_ha2.mp3"
+    },
+    {
+      "character": "و",
+      "example": "وردة",
+      "exampleTranslation": "Fleur (Warda)",
+      "fact": "حرف الواو منحني مثل الموجة الصغيرة",
+      "soundFile": "sound_waw.mp3"
+    },
+    {
+      "character": "ي",
+      "example": "يد",
+      "exampleTranslation": "Main (Yad)",
+      "fact": "حرف الياء له نقطتان تحته وهو آخر حرف في الأبجدية العربية",
+      "soundFile": "sound_ya.mp3"
+    }
+  ]
+}
